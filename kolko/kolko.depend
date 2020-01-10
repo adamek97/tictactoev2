@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1578693996 source:c:\users\kasia\documents\jêzyk c\kolko\main.cpp
+	<iostream>
+	<kolkoKrzyzyk.h>
+
+1578692659 c:\users\kasia\documents\jêzyk c\kolko\include\kolkokrzyzyk.h
+	<pole.h>
+
+1578692655 c:\users\kasia\documents\jêzyk c\kolko\include\pole.h
+
+1578692760 source:c:\users\kasia\documents\jêzyk c\kolko\src\pole.cpp
+	"pole.h"
+
+1578695891 source:c:\users\kasia\documents\jêzyk c\kolko\src\kolkokrzyzyk.cpp
+	"kolkoKrzyzyk.h"
+	<pole.h>
+	<iostream>
+	<cstdlib>
+
